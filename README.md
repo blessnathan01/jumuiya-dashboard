@@ -1,7 +1,12 @@
-# React Admin Dashboard
+# Jumuiya Dashboard
+This is a web based application for Jumuiya App project.
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+## Features
+1. Authentication and Authorization
+1. Membership
+1. More
 
-Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
+## Authors
+- [Brian Lema](https://github.com/b-lemy)
+- [Blessing Rweikiza](https://github.com/blessnathan01)
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
